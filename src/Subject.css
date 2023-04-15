@@ -1,0 +1,29 @@
+.Subject {
+    width: calc(25% - 90px);
+    background-color: #d0dae2;
+    padding: 20px;
+    margin: 15px 25px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px -4px;
+}
+
+.title {
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 75px;
+    padding: 0px;
+    text-align: center;
+    font-size: 28px;
+    border-radius: 5px;
+    border: black 2px inset;
+}
